@@ -1,16 +1,18 @@
-## Hi there 👋
+# Greetings 🖖
 
-<!--
-**sarahbarker-lgtm/sarahbarker-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **sarahbarker-lgtm**, a frontend hacker.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on personal side projects
+- 💬 Ask me anything about code
+- ⚡ Fun fact: I write code while drinking coffee
+- 🎯 Goal: ship something useful every week
+
+## Tech
+
+`Flask` `Kafka` `Redis` `Kotlin` `Nuxt` `Haskell`
+
+---
+
+_Type-check everything._
